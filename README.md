@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+This to do application has been developed to get comfortable with Vue.js. 
+
+This has been developed by following Travesty Media Vuex State Management tutorial.
